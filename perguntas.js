@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Educação',
+    'O que é ENEM?',
+    'O Enem é uma prova que avalia o conhecimento e as habilidades que os estudantes adquiriram ao longo do ensino médio'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital do Brasil?',
+    'A capital do Brasil é Brasília'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Gamer',
+    'O que é uma Gamer?',
+    'É o nome dado atualmente para os famosos “jogadores de videogame"'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Automotivo',
+    'Qual é o carro mais rápido do mundo?',
+    'Koenigsegg Jesko Absolut:O modelo da marca sueca tem capacidade de alcançar os 531 km/h'
 )
